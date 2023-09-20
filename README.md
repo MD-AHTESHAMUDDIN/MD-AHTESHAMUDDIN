@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MD-AHTESHAMUDDIN
-- 👀 I’m interested in DATA, ML and DEEP LEARNING 
+- 👀 I’m interested in DATA SCIENCE, ML and DEEP LEARNING 
 - 🌱 I’m currently studying APPLIED DATA SCIENCE 
 - 💞️ I’m looking to collaborate on works related with python algorithms, Data tools and deep learning.
 - 📫 Reach me @ahteshamuddin120@gmail.com
